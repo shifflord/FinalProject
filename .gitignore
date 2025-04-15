@@ -1,0 +1,21 @@
+# Ignore Python bytecode
+__pycache__/
+*.py[cod]
+
+# Ignore virtual environments
+venv/
+.env/
+.venv/
+
+# Ignore data files (if you don't want to track raw or output data)
+data/
+encoded_data.bin
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore OS / editor system files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
