@@ -12,6 +12,7 @@ data/
 bit_pair_encoding.ipynb
 huffman_codebook_small.json
 bit_pair_tokenizer_dict.json
+bit_pair_transformer.ipynb
 
 # Ignore Jupyter notebook checkpoints
 .ipynb_checkpoints/
