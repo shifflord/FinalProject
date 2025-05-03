@@ -9,7 +9,9 @@ venv/
 
 # Ignore data files (if you don't want to track raw or output data)
 data/
-encoded_data.bin
+bit_pair_encoding.ipynb
+huffman_codebook_small.json
+bit_pair_tokenizer_dict.json
 
 # Ignore Jupyter notebook checkpoints
 .ipynb_checkpoints/
